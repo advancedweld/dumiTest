@@ -1,11 +1,10 @@
-
 ## Foo
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi';
+import { Foo } from 'dumitest';
 
 export default () => <Foo title="First Demo" />;
 ```
